@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/code/ThreadPool/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles\\ThreadPool.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ThreadPool.dir\\src\\main.cpp.obj -c D:\\code\\ThreadPool\\src\\main.cpp",
+  "file": "D:/code/ThreadPool/src/main.cpp",
+  "output": "CMakeFiles/ThreadPool.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/code/ThreadPool/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles\\ThreadPool.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ThreadPool.dir\\src\\tp.cpp.obj -c D:\\code\\ThreadPool\\src\\tp.cpp",
+  "file": "D:/code/ThreadPool/src/tp.cpp",
+  "output": "CMakeFiles/ThreadPool.dir/src/tp.cpp.obj"
+}
+]
